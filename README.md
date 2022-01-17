@@ -1,4 +1,4 @@
-# John_Smith-s_Paradox
+# John Smith's Paradox
 Inspirado pelo video: youtu.be/RFlTawWwLZc
 
 Cada jogo consiste em 3 jogadores:
