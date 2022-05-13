@@ -1,12 +1,12 @@
 # John Smith's Paradox
-Inspirado pelo video: youtu.be/RFlTawWwLZc
+Inspired by: youtu.be/RFlTawWwLZc
 
-Cada jogo consiste em 3 jogadores:
+Each game consists of 3 players:
 
-A - Tem uma caixa com 6 dados, nos quais ele tem que jogar pelo menos um 6
+A - Has a box with 6 dice, in which he has to roll at least one 6
 
-B - Tem uma caixa com 12 dados, nos quais ele tem que jogar pelo menos dois 6
+B - Has a box with 12 dice, in which he has to roll at least two 6's.
 
-C - Tem uma caixa com 18 dados, nos quais ele tem que jogar pelo menos três 6
+C - There's a box with 18 dice, in which he has to roll at least three 6's.
 
-Os jogadores B e C tem mais chance de vencer do que o jogador A?
+Are players B and C more likely to win than player A?
